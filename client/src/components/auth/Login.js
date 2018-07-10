@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import React, { Component } from 'react';
 
 class Login extends Component {
   constructor() {
@@ -27,8 +27,6 @@ class Login extends Component {
 
     console.log(user);
   }
-
-
 
   render() {
     return (
